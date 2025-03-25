@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Zabala, Santiago Emanuel]
+- **Nombre:** Zabala, Santiago Emanuel
 - **Comisión:** M2025-5
 
 ## 📂 Descripción del Repositorio  
